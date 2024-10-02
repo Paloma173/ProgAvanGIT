@@ -1,2 +1,2 @@
-# ProgAvanGIT
-Práctica 1
+# Repositorio de Paloma Luengo
+
