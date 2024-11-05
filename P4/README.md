@@ -1,4 +1,3 @@
-Aquí tienes 7 preguntas que podrías tener sobre este código:
 
 1. **¿Cómo se manejan los errores en caso de que la matriz principal no exista?**
    - Cuando el usuario intenta introducir valores o realizar operaciones sin haber creado una matriz, el código verifica si existe una matriz y muestra un mensaje de error en caso de que no esté creada. 
